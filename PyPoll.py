@@ -9,8 +9,8 @@ import os
 # Set file paths ================================================================================
 
     # Assign input and output file paths to variables 
-file_to_load = os.path.join("Resources","election_results.csv")
-file_to_save = os.path.join("Analysis","electionAnalysis.txt")
+file_to_load = "/Users/emadsoheili/DA/GitHub/Python-UofT-ElectionAnalysis/Resources/election_results.csv"
+file_to_save = "/Users/emadsoheili/DA/GitHub/Python-UofT-ElectionAnalysis/Analysis/election_analysis.txt"
 
 # Initialize some variables ================================================================================
 
